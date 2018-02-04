@@ -1,4 +1,4 @@
-author: kazetotori
+author: kazetotori/fxqn
 spring:
   jpa.hibernate.ddl-auto: update
 
