@@ -1,4 +1,4 @@
-author: qian
+author: kazetotori
 management.security.enabled: false
 spring:
   jpa.hibernate.ddl-auto: update
